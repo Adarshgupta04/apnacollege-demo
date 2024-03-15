@@ -1,4 +1,4 @@
 # apnacollege-demo
 # this is a new repo
 <br>
-Author : Adarsh Gupta
+Author : Adarsh Gupta (Apna College)
